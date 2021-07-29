@@ -1,0 +1,102 @@
+,support,itemsets
+0,0.04020211180928937,frozenset({'Active Life'})
+1,0.0323249336010883,frozenset({'Hotels & Travel'})
+2,0.14553345857355704,frozenset({'Shopping'})
+3,0.08528859234307185,frozenset({'Beauty & Spas'})
+4,0.03987821467901794,frozenset({'Fashion'})
+5,0.027090755975902055,frozenset({'Hair Salons'})
+6,0.03854375850229967,frozenset({'Event Planning & Services'})
+7,0.02054803394441925,frozenset({'Home & Garden'})
+8,0.014743797369955302,"frozenset({""Women's Clothing""})"
+9,0.044931009911252186,frozenset({'Local Services'})
+10,0.06634708816479885,frozenset({'Health & Medical'})
+11,0.013279782341128457,frozenset({'Professional Services'})
+12,0.011336399559499903,frozenset({'Financial Services'})
+13,0.01868238647405584,frozenset({'Fitness & Instruction'})
+14,0.02942281531385632,frozenset({'Arts & Entertainment'})
+15,0.32481699812139664,frozenset({'Restaurants'})
+16,0.06591954395284058,frozenset({'Nightlife'})
+17,0.02063872514089525,frozenset({'American (New)'})
+18,0.05607307119258923,frozenset({'Bars'})
+19,0.010597914102481051,frozenset({'Sports Bars'})
+20,0.01853987173673641,frozenset({'Hotels'})
+21,0.03130141866943059,frozenset({'American (Traditional)'})
+22,0.11984193820042754,frozenset({'Food'})
+23,0.019394960160652976,frozenset({'Pets'})
+24,0.011271620133445617,frozenset({'Pet Services'})
+25,0.05451836496728639,frozenset({'Automotive'})
+26,0.012981796981278746,frozenset({'Cafes'})
+27,0.028489991578674614,frozenset({'Coffee & Tea'})
+28,0.021597460646498673,frozenset({'Nail Salons'})
+29,0.014899267992485586,frozenset({'Specialty Food'})
+30,0.017736606853663277,frozenset({'Breakfast & Brunch'})
+31,0.0619939107339509,frozenset({'Home Services'})
+32,0.02194726954719181,frozenset({'Doctors'})
+33,0.023942475869663794,frozenset({'Italian'})
+34,0.018449180540260412,frozenset({'Real Estate'})
+35,0.011323443674289045,frozenset({'Pubs'})
+36,0.01444581201010559,frozenset({'Bakeries'})
+37,0.030627712638466024,frozenset({'Sandwiches'})
+38,0.021105137008486104,frozenset({'Chinese'})
+39,0.022983740364060375,frozenset({'Burgers'})
+40,0.0369372287361534,frozenset({'Fast Food'})
+41,0.032584051305305436,frozenset({'Mexican'})
+42,0.010338796398263912,frozenset({'Sushi Bars'})
+43,0.03442378700524713,frozenset({'Pizza'})
+44,0.013189091144652458,frozenset({'Ice Cream & Frozen Yogurt'})
+45,0.010986590658806764,frozenset({'Japanese'})
+46,0.018449180540260412,frozenset({'Grocery'})
+47,0.022232299021830666,frozenset({'Auto Repair'})
+48,0.015482282826974152,frozenset({'Dentists'})
+49,0.010662693528535338,frozenset({'General Dentistry'})
+50,0.019058107145170693,"frozenset({'Event Planning & Services', 'Hotels & Travel'})"
+51,0.03987821467901794,"frozenset({'Shopping', 'Fashion'})"
+52,0.027090755975902055,"frozenset({'Hair Salons', 'Beauty & Spas'})"
+53,0.02054803394441925,"frozenset({'Shopping', 'Home & Garden'})"
+54,0.014743797369955302,"frozenset({""Women's Clothing"", 'Fashion'})"
+55,0.014743797369955302,"frozenset({'Shopping', ""Women's Clothing""})"
+56,0.014743797369955302,"frozenset({'Shopping', ""Women's Clothing"", 'Fashion'})"
+57,0.01868238647405584,"frozenset({'Active Life', 'Fitness & Instruction'})"
+58,0.03281725723910086,"frozenset({'Nightlife', 'Restaurants'})"
+59,0.02063872514089525,"frozenset({'Restaurants', 'American (New)'})"
+60,0.05607307119258923,"frozenset({'Nightlife', 'Bars'})"
+61,0.03139210986590659,"frozenset({'Restaurants', 'Bars'})"
+62,0.03139210986590659,"frozenset({'Nightlife', 'Restaurants', 'Bars'})"
+63,0.010597914102481051,"frozenset({'Sports Bars', 'Bars'})"
+64,0.010597914102481051,"frozenset({'Nightlife', 'Sports Bars'})"
+65,0.010597914102481051,"frozenset({'Sports Bars', 'Nightlife', 'Bars'})"
+66,0.01853987173673641,"frozenset({'Hotels', 'Hotels & Travel'})"
+67,0.01853987173673641,"frozenset({'Event Planning & Services', 'Hotels'})"
+68,0.01853987173673641,"frozenset({'Event Planning & Services', 'Hotels', 'Hotels & Travel'})"
+69,0.03130141866943059,"frozenset({'American (Traditional)', 'Restaurants'})"
+70,0.027220314828010624,"frozenset({'Food', 'Restaurants'})"
+71,0.011271620133445617,"frozenset({'Pet Services', 'Pets'})"
+72,0.012981796981278746,"frozenset({'Restaurants', 'Cafes'})"
+73,0.028489991578674614,"frozenset({'Coffee & Tea', 'Food'})"
+74,0.021597460646498673,"frozenset({'Nail Salons', 'Beauty & Spas'})"
+75,0.014899267992485586,"frozenset({'Food', 'Specialty Food'})"
+76,0.017736606853663277,"frozenset({'Restaurants', 'Breakfast & Brunch'})"
+77,0.02194726954719181,"frozenset({'Health & Medical', 'Doctors'})"
+78,0.023942475869663794,"frozenset({'Italian', 'Restaurants'})"
+79,0.018449180540260412,"frozenset({'Home Services', 'Real Estate'})"
+80,0.011323443674289045,"frozenset({'Pubs', 'Bars'})"
+81,0.011323443674289045,"frozenset({'Pubs', 'Nightlife'})"
+82,0.011323443674289045,"frozenset({'Pubs', 'Nightlife', 'Bars'})"
+83,0.01444581201010559,"frozenset({'Food', 'Bakeries'})"
+84,0.030627712638466024,"frozenset({'Sandwiches', 'Restaurants'})"
+85,0.021105137008486104,"frozenset({'Chinese', 'Restaurants'})"
+86,0.022983740364060375,"frozenset({'Burgers', 'Restaurants'})"
+87,0.010027855153203343,"frozenset({'Burgers', 'Fast Food'})"
+88,0.010027855153203343,"frozenset({'Burgers', 'Restaurants', 'Fast Food'})"
+89,0.0369372287361534,"frozenset({'Restaurants', 'Fast Food'})"
+90,0.032584051305305436,"frozenset({'Restaurants', 'Mexican'})"
+91,0.010338796398263912,"frozenset({'Sushi Bars', 'Restaurants'})"
+92,0.03442378700524713,"frozenset({'Restaurants', 'Pizza'})"
+93,0.013189091144652458,"frozenset({'Ice Cream & Frozen Yogurt', 'Food'})"
+94,0.010986590658806764,"frozenset({'Japanese', 'Restaurants'})"
+95,0.018449180540260412,"frozenset({'Grocery', 'Food'})"
+96,0.022232299021830666,"frozenset({'Auto Repair', 'Automotive'})"
+97,0.015482282826974152,"frozenset({'Health & Medical', 'Dentists'})"
+98,0.010662693528535338,"frozenset({'Dentists', 'General Dentistry'})"
+99,0.010662693528535338,"frozenset({'Health & Medical', 'General Dentistry'})"
+100,0.010662693528535338,"frozenset({'Health & Medical', 'Dentists', 'General Dentistry'})"

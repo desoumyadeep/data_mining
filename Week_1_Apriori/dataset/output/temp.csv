@@ -1,0 +1,101 @@
+0.04020211180928937,frozenset({'Active Life'})
+0.02063872514089525,frozenset({'American (New)'})
+0.03130141866943059,frozenset({'American (Traditional)'})
+0.02942281531385632,frozenset({'Arts & Entertainment'})
+0.022232299021830666,frozenset({'Auto Repair'})
+0.05451836496728639,frozenset({'Automotive'})
+0.01444581201010559,frozenset({'Bakeries'})
+0.05607307119258923,frozenset({'Bars'})
+0.08528859234307185,frozenset({'Beauty & Spas'})
+0.017736606853663277,frozenset({'Breakfast & Brunch'})
+0.022983740364060375,frozenset({'Burgers'})
+0.012981796981278746,frozenset({'Cafes'})
+0.021105137008486104,frozenset({'Chinese'})
+0.028489991578674614,frozenset({'Coffee & Tea'})
+0.015482282826974152,frozenset({'Dentists'})
+0.02194726954719181,frozenset({'Doctors'})
+0.03854375850229967,frozenset({'Event Planning & Services'})
+0.03987821467901794,frozenset({'Fashion'})
+0.0369372287361534,frozenset({'Fast Food'})
+0.011336399559499903,frozenset({'Financial Services'})
+0.01868238647405584,frozenset({'Fitness & Instruction'})
+0.11984193820042754,frozenset({'Food'})
+0.010662693528535338,frozenset({'General Dentistry'})
+0.018449180540260412,frozenset({'Grocery'})
+0.027090755975902055,frozenset({'Hair Salons'})
+0.06634708816479885,frozenset({'Health & Medical'})
+0.02054803394441925,frozenset({'Home & Garden'})
+0.0619939107339509,frozenset({'Home Services'})
+0.01853987173673641,frozenset({'Hotels'})
+0.0323249336010883,frozenset({'Hotels & Travel'})
+0.013189091144652458,frozenset({'Ice Cream & Frozen Yogurt'})
+0.023942475869663794,frozenset({'Italian'})
+0.010986590658806764,frozenset({'Japanese'})
+0.044931009911252186,frozenset({'Local Services'})
+0.032584051305305436,frozenset({'Mexican'})
+0.021597460646498673,frozenset({'Nail Salons'})
+0.06591954395284058,frozenset({'Nightlife'})
+0.011271620133445617,frozenset({'Pet Services'})
+0.019394960160652976,frozenset({'Pets'})
+0.03442378700524713,frozenset({'Pizza'})
+0.013279782341128457,frozenset({'Professional Services'})
+0.011323443674289045,frozenset({'Pubs'})
+0.018449180540260412,frozenset({'Real Estate'})
+0.32481699812139664,frozenset({'Restaurants'})
+0.030627712638466024,frozenset({'Sandwiches'})
+0.14553345857355704,frozenset({'Shopping'})
+0.014899267992485586,frozenset({'Specialty Food'})
+0.010597914102481051,frozenset({'Sports Bars'})
+0.010338796398263912,frozenset({'Sushi Bars'})
+0.014743797369955302,"frozenset({""Women's Clothing""})"
+0.01868238647405584,"frozenset({'Fitness & Instruction', 'Active Life'})"
+0.02063872514089525,"frozenset({'American (New)', 'Restaurants'})"
+0.03130141866943059,"frozenset({'Restaurants', 'American (Traditional)'})"
+0.022232299021830666,"frozenset({'Automotive', 'Auto Repair'})"
+0.01444581201010559,"frozenset({'Bakeries', 'Food'})"
+0.05607307119258923,"frozenset({'Nightlife', 'Bars'})"
+0.011323443674289045,"frozenset({'Pubs', 'Bars'})"
+0.03139210986590659,"frozenset({'Restaurants', 'Bars'})"
+0.010597914102481051,"frozenset({'Bars', 'Sports Bars'})"
+0.027090755975902055,"frozenset({'Beauty & Spas', 'Hair Salons'})"
+0.021597460646498673,"frozenset({'Beauty & Spas', 'Nail Salons'})"
+0.017736606853663277,"frozenset({'Restaurants', 'Breakfast & Brunch'})"
+0.010027855153203343,"frozenset({'Burgers', 'Fast Food'})"
+0.022983740364060375,"frozenset({'Restaurants', 'Burgers'})"
+0.012981796981278746,"frozenset({'Restaurants', 'Cafes'})"
+0.021105137008486104,"frozenset({'Restaurants', 'Chinese'})"
+0.028489991578674614,"frozenset({'Food', 'Coffee & Tea'})"
+0.010662693528535338,"frozenset({'Dentists', 'General Dentistry'})"
+0.015482282826974152,"frozenset({'Health & Medical', 'Dentists'})"
+0.02194726954719181,"frozenset({'Health & Medical', 'Doctors'})"
+0.01853987173673641,"frozenset({'Hotels', 'Event Planning & Services'})"
+0.019058107145170693,"frozenset({'Hotels & Travel', 'Event Planning & Services'})"
+0.03987821467901794,"frozenset({'Fashion', 'Shopping'})"
+0.014743797369955302,"frozenset({""Women's Clothing"", 'Fashion'})"
+0.0369372287361534,"frozenset({'Restaurants', 'Fast Food'})"
+0.018449180540260412,"frozenset({'Grocery', 'Food'})"
+0.013189091144652458,"frozenset({'Ice Cream & Frozen Yogurt', 'Food'})"
+0.027220314828010624,"frozenset({'Restaurants', 'Food'})"
+0.014899267992485586,"frozenset({'Food', 'Specialty Food'})"
+0.010662693528535338,"frozenset({'Health & Medical', 'General Dentistry'})"
+0.02054803394441925,"frozenset({'Home & Garden', 'Shopping'})"
+0.018449180540260412,"frozenset({'Real Estate', 'Home Services'})"
+0.01853987173673641,"frozenset({'Hotels', 'Hotels & Travel'})"
+0.023942475869663794,"frozenset({'Restaurants', 'Italian'})"
+0.010986590658806764,"frozenset({'Restaurants', 'Japanese'})"
+0.032584051305305436,"frozenset({'Restaurants', 'Mexican'})"
+0.011323443674289045,"frozenset({'Nightlife', 'Pubs'})"
+0.03281725723910086,"frozenset({'Nightlife', 'Restaurants'})"
+0.010597914102481051,"frozenset({'Nightlife', 'Sports Bars'})"
+0.011271620133445617,"frozenset({'Pets', 'Pet Services'})"
+0.03442378700524713,"frozenset({'Pizza', 'Restaurants'})"
+0.030627712638466024,"frozenset({'Restaurants', 'Sandwiches'})"
+0.010338796398263912,"frozenset({'Restaurants', 'Sushi Bars'})"
+0.014743797369955302,"frozenset({""Women's Clothing"", 'Shopping'})"
+0.011323443674289045,"frozenset({'Nightlife', 'Pubs', 'Bars'})"
+0.03139210986590659,"frozenset({'Nightlife', 'Bars', 'Restaurants'})"
+0.010597914102481051,"frozenset({'Nightlife', 'Bars', 'Sports Bars'})"
+0.010027855153203343,"frozenset({'Restaurants', 'Fast Food', 'Burgers'})"
+0.010662693528535338,"frozenset({'Health & Medical', 'Dentists', 'General Dentistry'})"
+0.01853987173673641,"frozenset({'Hotels', 'Hotels & Travel', 'Event Planning & Services'})"
+0.014743797369955302,"frozenset({""Women's Clothing"", 'Fashion', 'Shopping'})"

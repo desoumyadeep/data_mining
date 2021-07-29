@@ -1,0 +1,81 @@
+2:American (Traditional)
+1:Breakfast & Brunch
+16:Restaurants
+3:Sandwiches
+1:IT Services & Computer Repair
+3:Local Services
+1:Italian
+3:Coffee & Tea
+8:Food
+3:Fast Food
+1:Home Services
+1:Mortgage Brokers
+1:Real Estate
+1:Brasseries
+2:American (New)
+4:Bars
+1:Chicken Wings
+4:Nightlife
+1:Sports Bars
+1:Auto Detailing
+4:Automotive
+1:Wheel & Rim Repair
+1:Windshield Installation & Repair
+1:Auto Parts & Supplies
+1:CSA
+1:Farmers Market
+1:Grocery
+1:CPR Classes
+1:Education
+1:First Aid Classes
+1:Specialty Schools
+3:Event Planning & Services
+1:Venues & Event Spaces
+1:Furniture Stores
+1:Home & Garden
+1:Home Decor
+6:Shopping
+1:Books, Mags, Music & Video
+1:Bookstores
+1:Auto Repair
+1:Dry Cleaning & Laundry
+2:Burgers
+3:Pizza
+8:Beauty & Spas
+1:Massage
+1:Juice Bars & Smoothies
+2:Lounges
+1:Champagne Bars
+1:Event Photography
+1:Photographers
+1:Session Photography
+1:Convenience Stores
+1:Cosmetics & Beauty Supply
+1:Drugstores
+2:Active Life
+1:Parks
+1:Ice Cream & Frozen Yogurt
+5:Hair Salons
+2:Doctors
+2:Eyewear & Opticians
+2:Health & Medical
+1:Dermatologists
+1:Skin Care
+1:Community Service/Non-Profit
+1:Art Galleries
+2:Arts & Entertainment
+1:Cafes
+2:Barbers
+1:Men's Hair Salons
+1:Blow Dry/Out Services
+2:Hair Extensions
+1:Bakeries
+1:Desserts
+1:Car Wash
+1:Casinos
+1:Hotels
+1:Hotels & Travel
+1:Bagels
+1:Delis
+1:Fitness & Instruction
+1:Yoga

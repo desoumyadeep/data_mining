@@ -1,0 +1,10 @@
+Breakfast & Brunch;American (Traditional);Restaurants
+Sandwiches;Restaurants
+Local Services;IT Services & Computer Repair
+Restaurants;Italian
+Food;Coffee & Tea
+Fast Food;Restaurants
+Mortgage Brokers;Home Services;Real Estate
+Brasseries;Restaurants
+Bars;Sports Bars;Nightlife;American (New);Chicken Wings;Restaurants
+Automotive;Windshield Installation & Repair;Auto Detailing;Wheel & Rim Repair

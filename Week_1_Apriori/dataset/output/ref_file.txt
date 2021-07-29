@@ -1,0 +1,892 @@
+0:ATV Rentals/Tours
+1:Accessories
+2:Accountants
+3:Active Life
+4:Acupuncture
+5:Adult
+6:Adult Education
+7:Adult Entertainment
+8:Advertising
+9:Afghan
+10:African
+11:Airlines
+12:Airport Lounges
+13:Airport Shuttles
+14:Airports
+15:Allergists
+16:Alsatian
+17:Amateur Sports Teams
+18:American (New)
+19:American (Traditional)
+20:Amusement Parks
+21:Anesthesiologists
+22:Animal Shelters
+23:Antiques
+24:Apartments
+25:Appliances
+26:Appliances & Repair
+27:Appraisal Services
+28:Aquarium Services
+29:Aquariums
+30:Arabian
+31:Arcades
+32:Archery
+33:Architects
+34:Argentine
+35:Armenian
+36:Art Classes
+37:Art Galleries
+38:Art Restoration
+39:Art Schools
+40:Art Supplies
+41:Art Tours
+42:Arts & Crafts
+43:Arts & Entertainment
+44:Asian Fusion
+45:Assisted Living Facilities
+46:Auction Houses
+47:Audiologist
+48:Australian
+49:Austrian
+50:Auto Customization
+51:Auto Detailing
+52:Auto Glass Services
+53:Auto Insurance
+54:Auto Loan Providers
+55:Auto Parts & Supplies
+56:Auto Repair
+57:Automotive
+58:Baby Gear & Furniture
+59:Backshop
+60:Baden
+61:Bagels
+62:Bail Bondsmen
+63:Bakeries
+64:Bangladeshi
+65:Bankruptcy Law
+66:Banks & Credit Unions
+67:Barbeque
+68:Barbers
+69:Barre Classes
+70:Bars
+71:Bartenders
+72:Bartending Schools
+73:Basketball Courts
+74:Basque
+75:Battery Stores
+76:Batting Cages
+77:Bavarian
+78:Beaches
+79:Beauty & Spas
+80:Bed & Breakfast
+81:Beer Bar
+82:Beer Garden
+83:Beer Gardens
+84:Beer Hall
+85:Beer, Wine & Spirits
+86:Belgian
+87:Bespoke Clothing
+88:Beverage Store
+89:Bike Rentals
+90:Bike Repair/Maintenance
+91:Bike Sharing
+92:Bikes
+93:Bingo Halls
+94:Bistros
+95:Blood & Plasma Donation Centers
+96:Blow Dry/Out Services
+97:Boat Charters
+98:Boat Dealers
+99:Boat Repair
+100:Boating
+101:Body Shops
+102:Books, Mags, Music & Video
+103:Bookstores
+104:Boot Camps
+105:Botanical Gardens
+106:Bowling
+107:Boxing
+108:Brasseries
+109:Brazilian
+110:Breakfast & Brunch
+111:Breweries
+112:Brewing Supplies
+113:Bridal
+114:British
+115:Bubble Tea
+116:Buddhist Temples
+117:Buffets
+118:Building Supplies
+119:Burgers
+120:Burmese
+121:Bus Tours
+122:Buses
+123:Business Consulting
+124:Business Law
+125:Butcher
+126:CPR Classes
+127:CSA
+128:Cabaret
+129:Cabinetry
+130:Cafes
+131:Cafeteria
+132:Cajun/Creole
+133:Cambodian
+134:Campgrounds
+135:Canadian (New)
+136:Candy Stores
+137:Cannabis Clinics
+138:Cantonese
+139:Car Dealers
+140:Car Rental
+141:Car Share Services
+142:Car Stereo Installation
+143:Car Wash
+144:Cardio Classes
+145:Cardiologists
+146:Cards & Stationery
+147:Career Counseling
+148:Caribbean
+149:Caricatures
+150:Carpenters
+151:Carpet Cleaning
+152:Carpet Installation
+153:Carpeting
+154:Casinos
+155:Castles
+156:Caterers
+157:Challenge Courses
+158:Champagne Bars
+159:Check Cashing/Pay-day Loans
+160:Cheese Shops
+161:Cheesesteaks
+162:Chicken Shop
+163:Chicken Wings
+164:Child Care & Day Care
+165:Childbirth Education
+166:Childproofing
+167:Children's Clothing
+168:Chimney Sweeps
+169:Chinese
+170:Chiropractors
+171:Chocolatiers & Shops
+172:Choirs
+173:Christmas Markets
+174:Christmas Trees
+175:Churches
+176:Cinema
+177:Climbing
+178:Clowns
+179:Cocktail Bars
+180:Coffee & Tea
+181:Coffee & Tea Supplies
+182:Coffeeshops
+183:College Counseling
+184:Colleges & Universities
+185:Colombian
+186:Colonics
+187:Comedy Clubs
+188:Comfort Food
+189:Comic Books
+190:Commercial Real Estate
+191:Community Centers
+192:Community Gardens
+193:Community Service/Non-Profit
+194:Computers
+195:Concept Shops
+196:Contractors
+197:Convenience Stores
+198:Cooking Classes
+199:Cooking Schools
+200:Cosmetic Dentists
+201:Cosmetic Surgeons
+202:Cosmetics & Beauty Supply
+203:Cosmetology Schools
+204:Costumes
+205:Counseling & Mental Health
+206:Countertop Installation
+207:Country Clubs
+208:Country Dance Halls
+209:Couriers & Delivery Services
+210:Courthouses
+211:Creperies
+212:Criminal Defense Law
+213:Cuban
+214:Cultural Center
+215:Cupcakes
+216:Currency Exchange
+217:Curry Sausage
+218:Customized Merchandise
+219:Cycling Classes
+220:Czech
+221:DJs
+222:DUI Law
+223:Damage Restoration
+224:Dance Clubs
+225:Dance Schools
+226:Dance Studios
+227:Data Recovery
+228:Day Camps
+229:Day Spas
+230:Debt Relief Services
+231:Delicatessen
+232:Delis
+233:Demolition Services
+234:Dentists
+235:Department Stores
+236:Departments of Motor Vehicles
+237:Dermatologists
+238:Desserts
+239:Diagnostic Imaging
+240:Diagnostic Services
+241:Dialysis Clinics
+242:Dim Sum
+243:Diners
+244:Disc Golf
+245:Discount Store
+246:Distilleries
+247:Dive Bars
+248:Dive Shops
+249:Diving
+250:Divorce & Family Law
+251:Do-It-Yourself Food
+252:Doctors
+253:Dog Parks
+254:Dog Walkers
+255:Dominican
+256:Donairs
+257:Donuts
+258:Door Sales/Installation
+259:Doulas
+260:Driving Schools
+261:Drugstores
+262:Dry Cleaning & Laundry
+263:Drywall Installation & Repair
+264:Ear Nose & Throat
+265:Eastern European
+266:Editorial Services
+267:Education
+268:Educational Services
+269:Egyptian
+270:Electricians
+271:Electronics
+272:Electronics Repair
+273:Elementary Schools
+274:Embroidery & Crochet
+275:Emergency Rooms
+276:Empanadas
+277:Employment Agencies
+278:Employment Law
+279:Endocrinologists
+280:Endodontists
+281:Engraving
+282:Escape Games
+283:Estate Liquidation
+284:Estate Planning Law
+285:Ethiopian
+286:Ethnic Food
+287:Ethnic Grocery
+288:Event Photography
+289:Event Planning & Services
+290:Eyelash Service
+291:Eyewear & Opticians
+292:Fabric Stores
+293:Face Painting
+294:Falafel
+295:Family Practice
+296:Farm Equipment Repair
+297:Farmers Market
+298:Farming Equipment
+299:Fashion
+300:Fast Food
+301:Fences & Gates
+302:Ferries
+303:Fertility
+304:Festivals
+305:Filipino
+306:Financial Advising
+307:Financial Services
+308:Fire Departments
+309:Fire Protection Services
+310:Firearm Training
+311:Fireplace Services
+312:Firewood
+313:Fireworks
+314:First Aid Classes
+315:Fish & Chips
+316:Fishing
+317:Fitness & Instruction
+318:Fitness/Exercise Equipment
+319:Flea Markets
+320:Flight Instruction
+321:Flooring
+322:Florists
+323:Flowers
+324:Flowers & Gifts
+325:Fondue
+326:Food
+327:Food Banks
+328:Food Court
+329:Food Delivery Services
+330:Food Stands
+331:Food Tours
+332:Food Trucks
+333:Formal Wear
+334:Framing
+335:French
+336:Fruits & Veggies
+337:Funeral Services & Cemeteries
+338:Furniture Assembly
+339:Furniture Repair
+340:Furniture Reupholstery
+341:Furniture Stores
+342:Garage Door Services
+343:Gardeners
+344:Gas & Service Stations
+345:Gastroenterologist
+346:Gastropubs
+347:Gay Bars
+348:Gelato
+349:General Dentistry
+350:General Festivals
+351:General Litigation
+352:German
+353:Gerontologists
+354:Gift Shops
+355:Glass & Mirrors
+356:Gluten-Free
+357:Go Karts
+358:Gold Buyers
+359:Golf
+360:Golf Equipment
+361:Golf Equipment Shops
+362:Golf Lessons
+363:Graphic Design
+364:Greek
+365:Grocery
+366:Guest Houses
+367:Guitar Stores
+368:Gun/Rifle Ranges
+369:Guns & Ammo
+370:Gutter Services
+371:Gymnastics
+372:Gyms
+373:Hair Extensions
+374:Hair Loss Centers
+375:Hair Removal
+376:Hair Salons
+377:Hair Stylists
+378:Haitian
+379:Halal
+380:Handyman
+381:Hang Gliding
+382:Hardware Stores
+383:Hats
+384:Hawaiian
+385:Head Shops
+386:Health & Medical
+387:Health Markets
+388:Health Retreats
+389:Hearing Aid Providers
+390:Heating & Air Conditioning/HVAC
+391:Henna Artists
+392:Herbs & Spices
+393:High Fidelity Audio Equipment
+394:Hiking
+395:Himalayan/Nepalese
+396:Hindu Temples
+397:Historical Tours
+398:Hobby Shops
+399:Home & Garden
+400:Home & Rental Insurance
+401:Home Automation
+402:Home Cleaning
+403:Home Decor
+404:Home Health Care
+405:Home Inspectors
+406:Home Organization
+407:Home Services
+408:Home Staging
+409:Home Theatre Installation
+410:Home Window Tinting
+411:Hookah Bars
+412:Horse Boarding
+413:Horse Equipment Shops
+414:Horse Racing
+415:Horseback Riding
+416:Hospice
+417:Hospitals
+418:Hostels
+419:Hot Air Balloons
+420:Hot Dogs
+421:Hot Pot
+422:Hot Tub & Pool
+423:Hotels
+424:Hotels & Travel
+425:House Sitters
+426:Hungarian
+427:Hypnosis/Hypnotherapy
+428:IP & Internet Law
+429:IT Services & Computer Repair
+430:Iberian
+431:Ice Cream & Frozen Yogurt
+432:Immigration Law
+433:Indian
+434:Indonesian
+435:Insulation Installation
+436:Insurance
+437:Interior Design
+438:Internal Medicine
+439:International
+440:Internet Cafes
+441:Internet Service Providers
+442:Investing
+443:Irish
+444:Irish Pub
+445:Irrigation
+446:Italian
+447:Japanese
+448:Jazz & Blues
+449:Jet Skis
+450:Jewelry
+451:Jewelry Repair
+452:Juice Bars & Smoothies
+453:Junk Removal & Hauling
+454:Karaoke
+455:Kebab
+456:Keys & Locksmiths
+457:Kids Activities
+458:Kitchen & Bath
+459:Kitchen Incubators
+460:Knife Sharpening
+461:Knitting Supplies
+462:Korean
+463:Kosher
+464:Laboratory Testing
+465:Lactation Services
+466:Lakes
+467:Landmarks & Historical Buildings
+468:Landscape Architects
+469:Landscaping
+470:Language Schools
+471:Laotian
+472:Laser Eye Surgery/Lasik
+473:Laser Hair Removal
+474:Laser Tag
+475:Latin American
+476:Lawyers
+477:Leather Goods
+478:Lebanese
+479:Legal Services
+480:Leisure Centers
+481:Libraries
+482:Lice Services
+483:Life Coach
+484:Life Insurance
+485:Lighting Fixtures & Equipment
+486:Limos
+487:Lingerie
+488:Live/Raw Food
+489:Livestock Feed & Supply
+490:Local Flavor
+491:Local Services
+492:Lounges
+493:Luggage
+494:Macarons
+495:Machine & Tool Rental
+496:Magicians
+497:Mailbox Centers
+498:Makeup Artists
+499:Malaysian
+500:Marinas
+501:Marketing
+502:Martial Arts
+503:Masonry/Concrete
+504:Mass Media
+505:Massage
+506:Massage Schools
+507:Massage Therapy
+508:Matchmakers
+509:Maternity Wear
+510:Mattresses
+511:Meat Shops
+512:Medical Centers
+513:Medical Spas
+514:Medical Supplies
+515:Medical Transportation
+516:Meditation Centers
+517:Mediterranean
+518:Men's Clothing
+519:Men's Hair Salons
+520:Metal Fabricators
+521:Mexican
+522:Middle Eastern
+523:Middle Schools & High Schools
+524:Midwives
+525:Mini Golf
+526:Mobile Dent Repair
+527:Mobile Phone Accessories
+528:Mobile Phone Repair
+529:Mobile Phones
+530:Modern European
+531:Mongolian
+532:Moroccan
+533:Mortgage Brokers
+534:Mosques
+535:Motorcycle Dealers
+536:Motorcycle Gear
+537:Motorcycle Rental
+538:Motorcycle Repair
+539:Mountain Biking
+540:Movers
+541:Museums
+542:Music & DVDs
+543:Music Production Services
+544:Music Venues
+545:Musical Instrument Services
+546:Musical Instruments & Teachers
+547:Musicians
+548:Nail Salons
+549:Nanny Services
+550:Naturopathic/Holistic
+551:Neurologist
+552:Newspapers & Magazines
+553:Nightlife
+554:Notaries
+555:Nurse Practitioner
+556:Nurseries & Gardening
+557:Nursing Schools
+558:Nutritionists
+559:Observatories
+560:Obstetricians & Gynecologists
+561:Occupational Therapy
+562:Office Cleaning
+563:Office Equipment
+564:Officiants
+565:Oil Change Stations
+566:Oncologist
+567:Opera & Ballet
+568:Ophthalmologists
+569:Optometrists
+570:Oral Surgeons
+571:Organic Stores
+572:Oriental
+573:Orthodontists
+574:Orthopedists
+575:Orthotics
+576:Osteopathic Physicians
+577:Outdoor Gear
+578:Outlet Stores
+579:Oxygen Bars
+580:Paddleboarding
+581:Paint & Sip
+582:Paint Stores
+583:Paintball
+584:Painters
+585:Pakistani
+586:Palatine
+587:Parenting Classes
+588:Parking
+589:Parks
+590:Party & Event Planning
+591:Party Bike Rentals
+592:Party Bus Rentals
+593:Party Equipment Rentals
+594:Party Supplies
+595:Pasta Shops
+596:Patisserie/Cake Shop
+597:Pawn Shops
+598:Payroll Services
+599:Pediatric Dentists
+600:Pediatricians
+601:Pedicabs
+602:Performing Arts
+603:Perfume
+604:Periodontists
+605:Permanent Makeup
+606:Persian/Iranian
+607:Personal Assistants
+608:Personal Chefs
+609:Personal Injury Law
+610:Personal Shopping
+611:Peruvian
+612:Pest Control
+613:Pet Adoption
+614:Pet Boarding/Pet Sitting
+615:Pet Groomers
+616:Pet Services
+617:Pet Stores
+618:Pet Training
+619:Pets
+620:Pharmacy
+621:Photo Booth Rentals
+622:Photographers
+623:Photography Stores & Services
+624:Physical Therapy
+625:Piano Bars
+626:Piano Services
+627:Piano Stores
+628:Piercing
+629:Pilates
+630:Pita
+631:Pizza
+632:Planetarium
+633:Playgrounds
+634:Plumbing
+635:Plus Size Fashion
+636:Podiatrists
+637:Pole Dancing Classes
+638:Police Departments
+639:Polish
+640:Pool & Billiards
+641:Pool & Hot Tub Service
+642:Pool Cleaners
+643:Pool Halls
+644:Pop-up Shops
+645:Popcorn Shops
+646:Portuguese
+647:Post Offices
+648:Poutineries
+649:Powder Coating
+650:Preschools
+651:Pressure Washers
+652:Pretzels
+653:Print Media
+654:Printing Services
+655:Private Investigation
+656:Private Tutors
+657:Proctologists
+658:Professional Services
+659:Professional Sports Teams
+660:Propane
+661:Property Management
+662:Prosthetics
+663:Psychiatrists
+664:Psychics & Astrologers
+665:Psychologists
+666:Pub Food
+667:Public Plazas
+668:Public Relations
+669:Public Services & Government
+670:Public Transportation
+671:Pubs
+672:Puerto Rican
+673:Pulmonologist
+674:Pumpkin Patches
+675:RV Dealers
+676:RV Parks
+677:RV Rental
+678:RV Repair
+679:Race Tracks
+680:Races & Competitions
+681:Radio Stations
+682:Radiologists
+683:Rafting/Kayaking
+684:Ramen
+685:Real Estate
+686:Real Estate Agents
+687:Real Estate Law
+688:Real Estate Services
+689:Recording & Rehearsal Studios
+690:Recreation Centers
+691:Recycling Center
+692:Refinishing Services
+693:Reflexology
+694:Registration Services
+695:Rehabilitation Center
+696:Reiki
+697:Religious Organizations
+698:Religious Schools
+699:Resorts
+700:Rest Stops
+701:Restaurants
+702:Retirement Homes
+703:Rheumatologists
+704:Rhinelandian
+705:Rock Climbing
+706:Rolfing
+707:Roofing
+708:Rugs
+709:Russian
+710:Salad
+711:Salvadoran
+712:Sandwiches
+713:Saunas
+714:Scandinavian
+715:Scottish
+716:Screen Printing
+717:Screen Printing/T-Shirt Printing
+718:Scuba Diving
+719:Seafood
+720:Seafood Markets
+721:Security Services
+722:Security Systems
+723:Self Storage
+724:Septic Services
+725:Serbo Croatian
+726:Session Photography
+727:Sewing & Alterations
+728:Shades & Blinds
+729:Shanghainese
+730:Shared Office Spaces
+731:Shaved Ice
+732:Shipping Centers
+733:Shoe Repair
+734:Shoe Stores
+735:Shopping
+736:Shopping Centers
+737:Shredding Services
+738:Shutters
+739:Signmaking
+740:Singaporean
+741:Skate Parks
+742:Skate Shops
+743:Skating Rinks
+744:Ski & Snowboard Shops
+745:Ski Resorts
+746:Skin Care
+747:Skydiving
+748:Sleep Specialists
+749:Slovakian
+750:Smog Check Stations
+751:Soccer
+752:Social Clubs
+753:Software Development
+754:Solar Installation
+755:Soul Food
+756:Soup
+757:Southern
+758:Souvenir Shops
+759:Spanish
+760:Special Education
+761:Specialty Food
+762:Specialty Schools
+763:Speech Therapists
+764:Spine Surgeons
+765:Sporting Goods
+766:Sports Bars
+767:Sports Clubs
+768:Sports Medicine
+769:Sports Wear
+770:Spray Tanning
+771:Sri Lankan
+772:Stadiums & Arenas
+773:Steakhouses
+774:Street Vendors
+775:Sugaring
+776:Summer Camps
+777:Supper Clubs
+778:Surf Shop
+779:Surfing
+780:Surgeons
+781:Sushi Bars
+782:Swimming Lessons/Schools
+783:Swimming Pools
+784:Swimwear
+785:Swiss Food
+786:Synagogues
+787:Szechuan
+788:Tai Chi
+789:Taiwanese
+790:Talent Agencies
+791:Tanning
+792:Tanning Beds
+793:Tapas Bars
+794:Tapas/Small Plates
+795:Tasting Classes
+796:Tattoo
+797:Tattoo Removal
+798:Tax Law
+799:Tax Services
+800:Taxidermy
+801:Taxis
+802:Tea Rooms
+803:Teeth Whitening
+804:Telecommunications
+805:Television Service Providers
+806:Television Stations
+807:Tennis
+808:Teppanyaki
+809:Test Preparation
+810:Tex-Mex
+811:Thai
+812:Thrift Stores
+813:Ticket Sales
+814:Tiling
+815:Tires
+816:Tobacco Shops
+817:Tours
+818:Towing
+819:Toy Stores
+820:Traditional Chinese Medicine
+821:Train Stations
+822:Trainers
+823:Trains
+824:Trampoline Parks
+825:Translation Services
+826:Transmission Repair
+827:Transportation
+828:Travel Services
+829:Tree Services
+830:Trinidadian
+831:Trophy Shops
+832:Truck Rental
+833:Turkish
+834:Tutoring Centers
+835:Ukrainian
+836:Uniforms
+837:University Housing
+838:Unofficial Yelp Events
+839:Urgent Care
+840:Urologists
+841:Used Bookstore
+842:Used, Vintage & Consignment
+843:Utilities
+844:Uzbek
+845:Vacation Rental Agents
+846:Vacation Rentals
+847:Valet Services
+848:Vape Shops
+849:Vegan
+850:Vegetarian
+851:Vehicle Shipping
+852:Venezuelan
+853:Venues & Event Spaces
+854:Veterinarians
+855:Video Game Stores
+856:Video/Film Production
+857:Videographers
+858:Videos & Video Game Rental
+859:Vietnamese
+860:Vinyl Records
+861:Vitamins & Supplements
+862:Vocational & Technical School
+863:Walk-in Clinics
+864:Walking Tours
+865:Watch Repair
+866:Watches
+867:Water Delivery
+868:Water Heater Installation/Repair
+869:Water Parks
+870:Water Purification Services
+871:Waxing
+872:Web Design
+873:Wedding Chapels
+874:Wedding Planning
+875:Weight Loss Centers
+876:Wheel & Rim Repair
+877:Wholesale Stores
+878:Wigs
+879:Window Washing
+880:Windows Installation
+881:Windshield Installation & Repair
+882:Wine Bars
+883:Wine Tasting Classes
+884:Wine Tasting Room
+885:Wine Tours
+886:Wineries
+887:Wok
+888:Women's Clothing
+889:Yelp Events
+890:Yoga
+891:Zoos

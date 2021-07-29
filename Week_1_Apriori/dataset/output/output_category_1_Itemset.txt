@@ -1,0 +1,892 @@
+2416:American (Traditional)
+1369:Breakfast & Brunch
+25071:Restaurants
+2364:Sandwiches
+303:IT Services & Computer Repair
+3468:Local Services
+1848:Italian
+2199:Coffee & Tea
+9250:Food
+2851:Fast Food
+4785:Home Services
+162:Mortgage Brokers
+1424:Real Estate
+67:Brasseries
+1593:American (New)
+4328:Bars
+684:Chicken Wings
+5088:Nightlife
+818:Sports Bars
+208:Auto Detailing
+4208:Automotive
+95:Wheel & Rim Repair
+104:Windshield Installation & Repair
+476:Auto Parts & Supplies
+7:CSA
+137:Farmers Market
+1424:Grocery
+10:CPR Classes
+750:Education
+9:First Aid Classes
+287:Specialty Schools
+2975:Event Planning & Services
+473:Venues & Event Spaces
+513:Furniture Stores
+1586:Home & Garden
+411:Home Decor
+11233:Shopping
+584:Books, Mags, Music & Video
+265:Bookstores
+1716:Auto Repair
+570:Dry Cleaning & Laundry
+1774:Burgers
+2657:Pizza
+6583:Beauty & Spas
+642:Massage
+430:Juice Bars & Smoothies
+599:Lounges
+14:Champagne Bars
+111:Event Photography
+279:Photographers
+141:Session Photography
+740:Convenience Stores
+700:Cosmetics & Beauty Supply
+664:Drugstores
+3103:Active Life
+410:Parks
+1018:Ice Cream & Frozen Yogurt
+2091:Hair Salons
+1694:Doctors
+341:Eyewear & Opticians
+5121:Health & Medical
+119:Dermatologists
+720:Skin Care
+147:Community Service/Non-Profit
+237:Art Galleries
+2271:Arts & Entertainment
+1002:Cafes
+546:Barbers
+92:Men's Hair Salons
+88:Blow Dry/Out Services
+225:Hair Extensions
+1115:Bakeries
+700:Desserts
+410:Car Wash
+231:Casinos
+1431:Hotels
+2495:Hotels & Travel
+206:Bagels
+682:Delis
+1442:Fitness & Instruction
+289:Yoga
+21:Video Game Stores
+99:Videos & Video Game Rental
+1667:Nail Salons
+572:Department Stores
+3078:Fashion
+69:Portuguese
+86:Spray Tanning
+297:Tanning
+160:British
+74:Creperies
+1629:Chinese
+672:Hair Removal
+239:Makeup Artists
+208:Real Estate Agents
+211:Real Estate Services
+581:Arts & Crafts
+72:Fabric Stores
+1138:Women's Clothing
+633:Tires
+308:Contractors
+352:Dance Clubs
+8:Aquarium Services
+16:Aquariums
+870:Pet Services
+361:Pet Stores
+1497:Pets
+271:Massage Therapy
+516:Beer, Wine & Spirits
+734:Gyms
+533:Trainers
+339:Wine Bars
+122:Candy Stores
+1150:Specialty Food
+126:Meat Shops
+424:Buffets
+88:Sports Clubs
+231:Family Practice
+598:Steakhouses
+4:Marinas
+525:Thai
+2515:Mexican
+362:Medical Centers
+76:Irish
+874:Pubs
+104:Baby Gear & Furniture
+291:Thrift Stores
+571:Mediterranean
+254:Middle Eastern
+42:Persian/Iranian
+75:Stadiums & Arenas
+255:Tobacco Shops
+78:Food Delivery Services
+848:Japanese
+798:Sushi Bars
+18:Wedding Chapels
+128:Wedding Planning
+113:Tapas/Small Plates
+206:Golf
+582:Oil Change Stations
+49:Transmission Repair
+655:Men's Clothing
+172:Health Markets
+73:Nutritionists
+243:Sewing & Alterations
+24:Wigs
+80:Shades & Blinds
+761:Apartments
+552:Barbeque
+276:Food Trucks
+365:Car Dealers
+105:Towing
+322:Tex-Mex
+143:Martial Arts
+168:Museums
+311:Diners
+237:Auto Glass Services
+282:Body Shops
+118:Music & DVDs
+199:Local Flavor
+33:Kosher
+294:Florists
+611:Flowers & Gifts
+168:Nurseries & Gardening
+417:Greek
+97:Gay Bars
+73:Pool Halls
+258:Party & Event Planning
+75:Auto Customization
+98:Piercing
+229:Tattoo
+531:Asian Fusion
+30:Szechuan
+61:Criminal Defense Law
+35:DUI Law
+188:Lawyers
+1025:Professional Services
+631:Accessories
+435:Shoe Stores
+729:Sporting Goods
+246:Sports Wear
+339:Pet Boarding/Pet Sitting
+504:Veterinarians
+61:Dog Parks
+372:Salad
+242:Hardware Stores
+34:Brazilian
+160:Gift Shops
+31:Employment Agencies
+511:Pet Groomers
+57:Window Washing
+73:Diagnostic Imaging
+154:Diagnostic Services
+393:Hair Stylists
+245:Self Storage
+67:Truck Rental
+201:Appliances & Repair
+388:Mobile Phones
+223:Canadian (New)
+135:Graphic Design
+213:Vape Shops
+162:Children's Clothing
+157:Shopping Centers
+203:Pest Control
+112:Colleges & Universities
+159:Child Care & Day Care
+197:Ethnic Food
+679:Day Spas
+88:Boot Camps
+291:Vegetarian
+45:Departments of Motor Vehicles
+525:Public Services & Government
+25:Auto Loan Providers
+529:Banks & Credit Unions
+875:Financial Services
+369:Heating & Air Conditioning/HVAC
+239:Dive Bars
+387:Music Venues
+188:Antiques
+461:French
+27:Beer Garden
+34:Educational Services
+36:Parking
+298:Donuts
+110:Outdoor Gear
+83:Motorcycle Dealers
+62:Motorcycle Repair
+110:Smog Check Stations
+126:Acupuncture
+30:Traditional Chinese Medicine
+5:Telecommunications
+267:Hot Dogs
+229:Bikes
+27:Cooking Schools
+41:Do-It-Yourself Food
+222:Korean
+110:Tapas Bars
+174:Pet Training
+53:Podiatrists
+665:Seafood
+90:Cajun/Creole
+78:Tax Services
+122:Karaoke
+61:Bed & Breakfast
+86:Tea Rooms
+213:Medical Spas
+103:Laser Hair Removal
+141:Office Equipment
+1195:Dentists
+100:Soul Food
+164:Southern
+131:Soup
+177:German
+101:Guns & Ammo
+78:Party Supplies
+92:Playgrounds
+56:Formal Wear
+55:Cheese Shops
+41:Dance Schools
+100:Dance Studios
+456:Performing Arts
+12:Courthouses
+98:Shoe Repair
+54:Watch Repair
+134:Pediatricians
+108:Internal Medicine
+823:General Dentistry
+22:Pretzels
+123:Computers
+165:Gastropubs
+64:Recreation Centers
+128:Post Offices
+127:Hospitals
+54:Party Equipment Rentals
+255:Landscaping
+222:Tours
+172:Vegan
+167:Breweries
+16:Cycling Classes
+548:Gas & Service Stations
+198:Urgent Care
+173:Gluten-Free
+20:Mountain Biking
+194:Appliances
+2:Fireworks
+7:Nanny Services
+43:Lebanese
+193:Obstetricians & Gynecologists
+57:Costumes
+48:Gun/Rifle Ranges
+269:Used, Vintage & Consignment
+109:Amusement Parks
+68:Arcades
+24:Mini Golf
+149:Flooring
+43:Funeral Services & Cemeteries
+235:Waxing
+324:Electronics
+20:Leisure Centers
+31:Cosmetology Schools
+270:Carpet Cleaning
+23:Refinishing Services
+90:Handyman
+53:Screen Printing/T-Shirt Printing
+184:Latin American
+8:Venezuelan
+122:Bridal
+48:Vinyl Records
+121:Elementary Schools
+68:Middle Schools & High Schools
+174:Preschools
+70:Television Service Providers
+43:Taiwanese
+16:Blood & Plasma Donation Centers
+34:Glass & Mirrors
+351:Vietnamese
+112:Fish & Chips
+234:Discount Store
+429:Indian
+586:Jewelry
+19:Airports
+100:Comfort Food
+96:Hookah Bars
+4:Pop-up Shops
+245:Caterers
+25:Battery Stores
+260:Car Rental
+172:Notaries
+414:Printing Services
+361:Shipping Centers
+454:Optometrists
+58:Modern European
+60:Lighting Fixtures & Equipment
+45:Permanent Makeup
+53:Damage Restoration
+101:Outlet Stores
+179:Churches
+226:Religious Organizations
+45:Barre Classes
+471:Cosmetic Dentists
+65:Car Stereo Installation
+191:Orthodontists
+28:Uniforms
+414:Chiropractors
+131:Weight Loss Centers
+95:Ophthalmologists
+65:Wholesale Stores
+202:Mattresses
+10:Registration Services
+40:Counseling & Mental Health
+36:Boating
+28:Cannabis Clinics
+69:Accountants
+57:Seafood Markets
+11:Baden
+4:Vehicle Shipping
+21:Screen Printing
+305:Eyelash Service
+221:Hobby Shops
+207:Cocktail Bars
+17:Campgrounds
+44:Adult
+96:Lingerie
+88:Garage Door Services
+124:Oral Surgeons
+90:Pakistani
+189:Property Management
+133:Cards & Stationery
+218:Movers
+213:Festivals
+5:Christmas Trees
+90:Hot Tub & Pool
+139:Pediatric Dentists
+292:Plumbing
+190:Cinema
+65:Sports Medicine
+120:Building Supplies
+16:Paint Stores
+19:RV Repair
+97:Street Vendors
+220:Insurance
+12:Orthotics
+27:Internet Cafes
+102:Watches
+19:Fondue
+8:Bartenders
+18:Check Cashing/Pay-day Loans
+40:African
+34:Cuban
+36:Kids Activities
+13:Falafel
+122:Libraries
+4:Saunas
+114:Swimming Pools
+37:Masonry/Concrete
+241:Home Cleaning
+66:Resorts
+191:Toy Stores
+141:Hawaiian
+14:Laser Tag
+66:Cheesesteaks
+124:Adult Entertainment
+34:Landscape Architects
+74:Turkish
+29:Midwives
+67:Laboratory Testing
+79:Cosmetic Surgeons
+54:Vitamins & Supplements
+82:Fruits & Veggies
+21:Maternity Wear
+35:Skating Rinks
+42:Home Window Tinting
+20:Tutoring Centers
+98:Art Supplies
+99:Airport Shuttles
+99:Limos
+332:Transportation
+30:Art Schools
+66:Windows Installation
+20:Driving Schools
+94:Taxis
+2:Pole Dancing Classes
+39:Horseback Riding
+11:Water Heater Installation/Repair
+20:Pressure Washers
+167:Pool Cleaners
+87:Interior Design
+26:Cantonese
+123:Musical Instruments & Teachers
+57:Photography Stores & Services
+29:Tennis
+60:Cupcakes
+123:Keys & Locksmiths
+105:Electricians
+10:Souvenir Shops
+9:Bespoke Clothing
+55:DJs
+7:Fireplace Services
+88:Reflexology
+18:International
+160:Kitchen & Bath
+18:Delicatessen
+31:Allergists
+81:Dog Walkers
+87:Painters
+23:Moroccan
+23:Police Departments
+82:Comic Books
+142:Internet Service Providers
+3:High Fidelity Audio Equipment
+44:Home Theatre Installation
+7:Golf Lessons
+35:Photo Booth Rentals
+27:Videographers
+28:Ethiopian
+22:RV Parks
+12:RV Rental
+83:Orthopedists
+39:Scottish
+17:Basque
+84:Spanish
+73:Travel Services
+49:Peruvian
+112:Mass Media
+18:Television Stations
+8:Customized Merchandise
+30:Gymnastics
+3:Sri Lankan
+46:Airlines
+14:Private Tutors
+21:Medical Supplies
+56:Dim Sum
+80:Bike Rentals
+25:Gardeners
+61:Pawn Shops
+76:Pool & Hot Tub Service
+12:Airport Lounges
+104:Landmarks & Historical Buildings
+16:Colombian
+76:Food Stands
+34:Ramen
+23:Swimming Lessons/Schools
+100:Caribbean
+3:Horse Racing
+11:Race Tracks
+88:Hiking
+19:Endocrinologists
+99:Electronics Repair
+13:Escape Games
+197:Physical Therapy
+43:Laser Eye Surgery/Lasik
+8:ATV Rentals/Tours
+25:Salvadoran
+34:Pet Adoption
+24:Organic Stores
+94:Shaved Ice
+19:Beer Gardens
+8:Security Services
+67:Personal Injury Law
+68:Tree Services
+48:Boxing
+150:Chocolatiers & Shops
+54:Periodontists
+27:Swimwear
+14:Lactation Services
+50:Video/Film Production
+53:Divorce & Family Law
+30:Psychics & Astrologers
+70:Office Cleaning
+22:Cardiologists
+22:Luggage
+18:Races & Competitions
+34:Yelp Events
+4:Community Centers
+79:Web Design
+16:Home Organization
+10:University Housing
+28:Carpet Installation
+14:Challenge Courses
+14:Water Delivery
+47:Couriers & Delivery Services
+105:Pilates
+33:Art Classes
+10:Beer Bar
+54:Public Transportation
+93:Signmaking
+84:Bowling
+6:Empanadas
+33:Cabinetry
+68:Carpeting
+2:Czech
+81:Naturopathic/Holistic
+1:Kitchen Incubators
+13:Climbing
+25:Bankruptcy Law
+20:Real Estate Law
+26:Social Clubs
+5:Teppanyaki
+52:Jewelry Repair
+3:Jet Skis
+16:General Litigation
+65:Leather Goods
+132:Mobile Phone Repair
+5:Shanghainese
+14:Cultural Center
+16:Live/Raw Food
+22:Gold Buyers
+7:Personal Assistants
+3:Hungarian
+23:Personal Chefs
+73:Filipino
+8:Opera & Ballet
+35:Solar Installation
+52:Knitting Supplies
+15:Water Purification Services
+54:Endodontists
+55:Bubble Tea
+33:Financial Advising
+33:Advertising
+19:Data Recovery
+61:Home Inspectors
+22:Poutineries
+38:Country Clubs
+4:Religious Schools
+39:Framing
+66:Comedy Clubs
+35:Hostels
+59:Roofing
+23:Neurologist
+14:Rugs
+12:Auto Insurance
+8:Home & Rental Insurance
+41:Print Media
+27:Estate Planning Law
+31:Irrigation
+12:Psychiatrists
+76:Security Systems
+12:Officiants
+4:Walking Tours
+4:Wine Tasting Room
+38:Wineries
+23:Paint & Sip
+59:Bike Repair/Maintenance
+11:Special Education
+13:Metal Fabricators
+12:Payroll Services
+5:Oncologist
+24:Radiologists
+27:Mongolian
+24:Embroidery & Crochet
+29:Reiki
+5:Horse Boarding
+48:Butcher
+52:Animal Shelters
+49:Gelato
+14:Himalayan/Nepalese
+6:Osteopathic Physicians
+5:Egyptian
+23:Summer Camps
+4:Curry Sausage
+21:Plus Size Fashion
+23:Guitar Stores
+33:Musical Instrument Services
+23:Polish
+22:Popcorn Shops
+17:Tanning Beds
+27:RV Dealers
+7:Life Insurance
+16:Career Counseling
+39:Life Coach
+7:Rock Climbing
+6:Propane
+11:Arabian
+9:Cambodian
+47:Halal
+32:Junk Removal & Hauling
+40:Furniture Reupholstery
+11:Recording & Rehearsal Studios
+35:Kebab
+10:Train Stations
+2:Public Plazas
+5:Buses
+21:Golf Equipment
+27:Herbs & Spices
+7:Pool & Billiards
+11:Auction Houses
+16:Hats
+22:Retirement Homes
+16:Commercial Real Estate
+4:Pasta Shops
+7:Doulas
+7:Brewing Supplies
+41:Ear Nose & Throat
+5:Hearing Aid Providers
+7:Shredding Services
+5:Sleep Specialists
+9:Cooking Classes
+25:Tattoo Removal
+12:Motorcycle Gear
+15:Legal Services
+9:Private Investigation
+7:Sugaring
+2:Party Bike Rentals
+7:Motorcycle Rental
+15:Henna Artists
+12:Bingo Halls
+24:Adult Education
+40:Jazz & Blues
+10:Tai Chi
+14:Paintball
+13:Hot Pot
+18:Botanical Gardens
+12:Coffeeshops
+4:Hindu Temples
+5:Piano Services
+17:Party Bus Rentals
+9:Mobile Phone Accessories
+4:Language Schools
+26:Soccer
+13:Drywall Installation & Repair
+5:Laotian
+10:Occupational Therapy
+8:Speech Therapists
+16:Afghan
+48:Radio Stations
+15:Utilities
+2:Austrian
+9:Paddleboarding
+47:Amateur Sports Teams
+1:Slovakian
+33:Food Court
+1:Art Restoration
+5:Buddhist Temples
+14:Boat Charters
+8:Test Preparation
+17:Russian
+8:Skate Parks
+2:Bus Tours
+4:Horse Equipment Shops
+4:Livestock Feed & Supply
+34:Door Sales/Installation
+10:Malaysian
+23:Rehabilitation Center
+10:Audiologist
+2:Walk-in Clinics
+7:Massage Schools
+18:Vocational & Technical School
+27:Ticket Sales
+26:Patisserie/Cake Shop
+12:Go Karts
+27:Newspapers & Magazines
+16:Lakes
+8:Boat Dealers
+12:Surgeons
+11:Flea Markets
+1:Piano Stores
+4:Bangladeshi
+2:Bavarian
+13:Magicians
+6:Beaches
+18:Business Law
+12:Irish Pub
+6:Engraving
+9:Trophy Shops
+91:Marketing
+1:Rhinelandian
+2:Surfing
+2:Oxygen Bars
+9:Pharmacy
+8:Argentine
+26:Bistros
+6:Country Dance Halls
+9:Furniture Repair
+14:Urologists
+11:Personal Shopping
+16:Trampoline Parks
+8:Food Tours
+14:Gastroenterologist
+11:Shutters
+5:Christmas Markets
+14:Rafting/Kayaking
+15:Investing
+7:Indonesian
+24:Home Health Care
+10:Mailbox Centers
+2:Nurse Practitioner
+26:Professional Sports Teams
+3:Singaporean
+14:Flight Instruction
+1:College Counseling
+7:Musicians
+2:Pumpkin Patches
+10:Macarons
+4:Matchmakers
+3:Meditation Centers
+9:Distilleries
+3:Machine & Tool Rental
+1:Childproofing
+23:Fences & Gates
+8:Bail Bondsmen
+18:Vacation Rentals
+9:Skate Shops
+3:Planetarium
+2:General Festivals
+1:Childbirth Education
+6:Serbo Croatian
+5:Employment Law
+5:Cafeteria
+19:Fertility
+3:Food Banks
+17:Hypnosis/Hypnotherapy
+10:Scandinavian
+2:Currency Exchange
+6:Colonics
+6:Beverage Store
+2:Alsatian
+4:Fire Protection Services
+1:Oriental
+7:Batting Cages
+9:Disc Golf
+10:Face Painting
+5:Skydiving
+11:Boat Repair
+2:Countertop Installation
+8:Archery
+5:Piano Bars
+3:Fishing
+6:Medical Transportation
+7:Immigration Law
+3:Valet Services
+4:Insulation Installation
+14:Diving
+11:Scuba Diving
+7:Hospice
+4:Car Share Services
+5:Health Retreats
+4:Septic Services
+10:Shared Office Spaces
+6:Talent Agencies
+8:Teeth Whitening
+4:Burmese
+7:Synagogues
+21:Zoos
+18:Belgian
+5:Powder Coating
+8:Guest Houses
+2:Demolition Services
+2:Prosthetics
+2:Tasting Classes
+2:Dive Shops
+4:Knife Sharpening
+3:Clowns
+3:Hair Loss Centers
+21:Recycling Center
+4:Anesthesiologists
+1:Supper Clubs
+7:Vacation Rental Agents
+10:Chicken Shop
+3:Uzbek
+3:Bartending Schools
+7:Hot Air Balloons
+8:Emergency Rooms
+5:Gutter Services
+2:Caricatures
+1:Iberian
+1:Carpenters
+6:Puerto Rican
+1:IP & Internet Law
+2:Psychologists
+1:Haitian
+1:Taxidermy
+3:Fitness/Exercise Equipment
+4:Lice Services
+2:Observatories
+1:Spine Surgeons
+1:Flowers
+1:House Sitters
+3:Firearm Training
+3:Public Relations
+4:Wine Tours
+4:Cabaret
+5:Software Development
+2:Historical Tours
+1:Ferries
+1:Choirs
+3:Rheumatologists
+4:Dominican
+3:Ski & Snowboard Shops
+2:Day Camps
+2:Golf Equipment Shops
+3:Australian
+5:Firewood
+3:Unofficial Yelp Events
+3:Ukrainian
+2:Rolfing
+2:Trains
+2:Water Parks
+1:Wok
+4:Architects
+4:Home Automation
+2:Basketball Courts
+4:Home Staging
+3:Coffee & Tea Supplies
+1:Tax Law
+3:Appraisal Services
+4:Ethnic Grocery
+6:Mobile Dent Repair
+5:Estate Liquidation
+1:Parenting Classes
+2:Tiling
+1:Pita
+2:Fire Departments
+5:Chimney Sweeps
+2:Pub Food
+1:Concept Shops
+2:Ski Resorts
+2:Cardio Classes
+4:Furniture Assembly
+2:Music Production Services
+1:Community Gardens
+1:Eastern European
+1:Dialysis Clinics
+1:Bike Sharing
+4:Pulmonologist
+1:Beer Hall
+2:Proctologists
+2:Hang Gliding
+1:Debt Relief Services
+1:Palatine
+1:Gerontologists
+1:Trinidadian
+3:Used Bookstore
+1:Armenian
+1:Mosques
+4:Business Consulting
+1:Art Tours
+1:Rest Stops
+1:Wine Tasting Classes
+3:Head Shops
+1:Surf Shop
+2:Farm Equipment Repair
+2:Pedicabs
+1:Assisted Living Facilities
+1:Perfume
+1:Swiss Food
+1:Backshop
+1:Castles
+1:Farming Equipment
+1:Nursing Schools
+1:Editorial Services
+1:Translation Services
+1:Donairs

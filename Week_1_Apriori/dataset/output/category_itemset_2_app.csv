@@ -1,0 +1,101 @@
+frozenset({'Active Life'})
+frozenset({'American (New)'})
+frozenset({'American (Traditional)'})
+frozenset({'Arts & Entertainment'})
+frozenset({'Auto Repair'})
+frozenset({'Automotive'})
+frozenset({'Bakeries'})
+frozenset({'Bars'})
+frozenset({'Beauty & Spas'})
+frozenset({'Breakfast & Brunch'})
+frozenset({'Burgers'})
+frozenset({'Cafes'})
+frozenset({'Chinese'})
+frozenset({'Coffee & Tea'})
+frozenset({'Dentists'})
+frozenset({'Doctors'})
+frozenset({'Event Planning & Services'})
+frozenset({'Fashion'})
+frozenset({'Fast Food'})
+frozenset({'Financial Services'})
+frozenset({'Fitness & Instruction'})
+frozenset({'Food'})
+frozenset({'General Dentistry'})
+frozenset({'Grocery'})
+frozenset({'Hair Salons'})
+frozenset({'Health & Medical'})
+frozenset({'Home & Garden'})
+frozenset({'Home Services'})
+frozenset({'Hotels'})
+frozenset({'Hotels & Travel'})
+frozenset({'Ice Cream & Frozen Yogurt'})
+frozenset({'Italian'})
+frozenset({'Japanese'})
+frozenset({'Local Services'})
+frozenset({'Mexican'})
+frozenset({'Nail Salons'})
+frozenset({'Nightlife'})
+frozenset({'Pet Services'})
+frozenset({'Pets'})
+frozenset({'Pizza'})
+frozenset({'Professional Services'})
+frozenset({'Pubs'})
+frozenset({'Real Estate'})
+frozenset({'Restaurants'})
+frozenset({'Sandwiches'})
+frozenset({'Shopping'})
+frozenset({'Specialty Food'})
+frozenset({'Sports Bars'})
+frozenset({'Sushi Bars'})
+"frozenset({""Women's Clothing""})"
+"frozenset({'Active Life', 'Fitness & Instruction'})"
+"frozenset({'Restaurants', 'American (New)'})"
+"frozenset({'American (Traditional)', 'Restaurants'})"
+"frozenset({'Auto Repair', 'Automotive'})"
+"frozenset({'Food', 'Bakeries'})"
+"frozenset({'Nightlife', 'Bars'})"
+"frozenset({'Pubs', 'Bars'})"
+"frozenset({'Restaurants', 'Bars'})"
+"frozenset({'Sports Bars', 'Bars'})"
+"frozenset({'Hair Salons', 'Beauty & Spas'})"
+"frozenset({'Nail Salons', 'Beauty & Spas'})"
+"frozenset({'Restaurants', 'Breakfast & Brunch'})"
+"frozenset({'Burgers', 'Fast Food'})"
+"frozenset({'Burgers', 'Restaurants'})"
+"frozenset({'Restaurants', 'Cafes'})"
+"frozenset({'Chinese', 'Restaurants'})"
+"frozenset({'Coffee & Tea', 'Food'})"
+"frozenset({'Dentists', 'General Dentistry'})"
+"frozenset({'Health & Medical', 'Dentists'})"
+"frozenset({'Health & Medical', 'Doctors'})"
+"frozenset({'Event Planning & Services', 'Hotels'})"
+"frozenset({'Event Planning & Services', 'Hotels & Travel'})"
+"frozenset({'Shopping', 'Fashion'})"
+"frozenset({""Women's Clothing"", 'Fashion'})"
+"frozenset({'Restaurants', 'Fast Food'})"
+"frozenset({'Grocery', 'Food'})"
+"frozenset({'Ice Cream & Frozen Yogurt', 'Food'})"
+"frozenset({'Food', 'Restaurants'})"
+"frozenset({'Food', 'Specialty Food'})"
+"frozenset({'Health & Medical', 'General Dentistry'})"
+"frozenset({'Shopping', 'Home & Garden'})"
+"frozenset({'Home Services', 'Real Estate'})"
+"frozenset({'Hotels', 'Hotels & Travel'})"
+"frozenset({'Italian', 'Restaurants'})"
+"frozenset({'Japanese', 'Restaurants'})"
+"frozenset({'Restaurants', 'Mexican'})"
+"frozenset({'Pubs', 'Nightlife'})"
+"frozenset({'Nightlife', 'Restaurants'})"
+"frozenset({'Nightlife', 'Sports Bars'})"
+"frozenset({'Pet Services', 'Pets'})"
+"frozenset({'Restaurants', 'Pizza'})"
+"frozenset({'Sandwiches', 'Restaurants'})"
+"frozenset({'Sushi Bars', 'Restaurants'})"
+"frozenset({'Shopping', ""Women's Clothing""})"
+"frozenset({'Pubs', 'Nightlife', 'Bars'})"
+"frozenset({'Nightlife', 'Restaurants', 'Bars'})"
+"frozenset({'Nightlife', 'Sports Bars', 'Bars'})"
+"frozenset({'Burgers', 'Restaurants', 'Fast Food'})"
+"frozenset({'Health & Medical', 'Dentists', 'General Dentistry'})"
+"frozenset({'Event Planning & Services', 'Hotels', 'Hotels & Travel'})"
+"frozenset({'Shopping', ""Women's Clothing"", 'Fashion'})"

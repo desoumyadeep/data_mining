@@ -1,0 +1,7 @@
+,support,itemsets
+0,0.32,frozenset({'Restaurants'})
+1,0.12,frozenset({'Shopping'})
+2,0.16,frozenset({'Food'})
+3,0.16,frozenset({'Beauty & Spas'})
+4,0.1,frozenset({'Hair Salons'})
+5,0.1,"frozenset({'Beauty & Spas', 'Hair Salons'})"

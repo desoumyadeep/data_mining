@@ -1,0 +1,14 @@
+16:Restaurants
+3:Sandwiches
+3:Local Services
+3:Coffee & Tea
+8:Food
+3:Fast Food
+4:Bars
+4:Nightlife
+4:Automotive
+3:Event Planning & Services
+6:Shopping
+3:Pizza
+8:Beauty & Spas
+5:Hair Salons
